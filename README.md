@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Wake+up%2C+operator...;The+pipeline+has+you...;DevOps+Engineer+%7C+MLOps+Engineer;GitOps+Engineer+%7C+Platform+Engineer;Building+infra+that+builds+itself." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Wake+up%2C+operator...;The+pipeline+has+you...;DevOps+Engineer+%7C+MLOps+Engineer;GitOps+Engineer+%7C+Platform+Engineer;Python+Developer+%7C+Automation+First;Building+infra+that+builds+itself." alt="Typing SVG" />
 
 </div>
 
@@ -26,14 +26,17 @@ $ cat /etc/roles
 > Platform Engineer    -> Internal Tooling, Developer Experience
 
 $ cat /etc/skills
-> AWS          [██████████] Cloud Infrastructure
-> Terraform    [██████████] Infrastructure as Code
-> Kubernetes   [█████████░] Container Orchestration
-> Docker       [██████████] Containerization
-> ArgoCD/Flux  [████████░░] GitOps Delivery
-> MLflow/Kubeflow [███████░░░] ML Pipeline Orchestration
-> Python       [████████░░] Automation & Scripting
-> CI/CD        [█████████░] Pipelines & Deployment
+> Python            [██████████] Scripting, Automation & Tooling
+> AWS               [██████████] Cloud Infrastructure
+> Terraform         [██████████] Infrastructure as Code
+> Kubernetes        [█████████░] Container Orchestration
+> Docker            [██████████] Containerization
+> ArgoCD            [████████░░] GitOps Delivery
+> MLflow/Kubeflow   [███████░░░] ML Pipeline Orchestration
+> CI/CD             [█████████░] Pipelines & Deployment
+
+$ python3 -c "print('I build the systems that build the systems')"
+I build the systems that build the systems
 ```
 
 ---
@@ -42,17 +45,17 @@ $ cat /etc/skills
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform/CloudFormation](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions/ CI-CD ](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Datadog/Splunk](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 </div>
 
@@ -62,8 +65,8 @@ $ cat /etc/skills
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-s-261a1a336)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanths1111@gmail.com)
 
 </div>
 
